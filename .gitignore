@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore my venv 
+ttds_venv/
+
+# Ignore my datasets folders
+*.csv
